@@ -1,0 +1,39 @@
+Cash flows from operating activities:
+Net income -loss                                                                                  162.8              -99.3         396.4
+Adjustments to reconcile net income -loss to net cash provided by operating activities:
+  Depreciation and amortization expense                                                             295.2               307.5           309.4
+  Deferred income tax expense -benefit                                                              84.1               -38.9             -7.9
+  Equity in losses of equity-method investees                                                          4.5                 5.2            10.9
+  Non-cash stock-based compensation expense                                                          74.5                63.6             97.0
+  Non-cash impairment of assets                                                                      50.0               253.8             48.8
+  Non-cash restructuring-related inventory charges                                                     7.6              197.9             20.4
+  Other non-cash charges                                                                               7.4               29.2             19.7
+  Changes in operating assets and liabilities:
+     Accounts receivable                                                                             34.5                54.1           129.4
+     Inventories                                                                                     57.8               120.4            -90.9
+     Prepaid expenses and other current assets                                                      -15.1              -27.8            30.2
+     Accounts payable and accrued liabilities                                                        64.6               112.9             90.1
+     Income tax receivables and payables                                                            165.1               -34.0           -14.6
+     Deferred income                                                                                   1.4              -20.7             -7.9
+     Other balance sheet changes                                                                    -19.3               28.7            -14.3
+Net cash provided by operating activities                                                           975.1               952.6        1016.7
+Cash flows from investing activities:
+  Capital expenditures                                                                             -161.6             -284.0         -417.7
+  Purchases of investments                                                                       -1605.6             -860.4      -1085.0
+  Proceeds from sales and maturities of investments                                               1582.7               942.4           942.7
+  Acquisitions and ventures                                                                           -4.6               -6.1          -16.3
+Net cash used in investing activities                                                              -189.1             -208.1         -576.3
+Cash flows from financing activities:
+  Proceeds from issuance of short-term debt                                                          10.1            3735.2         4343.9
+  Repayments of short-term debt                                                                         —           -3851.3       -4462.6
+  Proceeds from issuance of long-term debt                                                              —                   —           299.4
+  Payments of capital lease obligations                                                             -28.2              -27.3           -24.3
+  Payments of dividends                                                                            -162.4             -164.8         -170.3
+  Repurchases of common stock including shares surrendered for tax withholdings                    -17.1             -215.2         -500.4
+  Proceeds from exercise of stock options                                                              0.1                 5.0            33.2
+  Other financing activities                                                                            —                   —              -1.9
+Net cash used in financing activities                                                              -197.5             -518.4         -483.0
+Effect of exchange rate changes on cash cash equivalents and restricted cash                       55.2               -16.4              7.2
+Net increase -decrease in cash cash equivalents and restricted cash                              643.7               209.7            -35.4
+Cash cash equivalents and restricted cash at beginning of period                                  711.8               502.1           537.5
+Cash cash equivalents and restricted cash at end of period                                     1355.5              711.8          502.1
