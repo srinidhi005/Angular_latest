@@ -1,0 +1,58 @@
+<div class="content">
+	<div class="form-group">
+		<button  type="button" (click)="tableToExcel('myTable','RMI_Insights_Export')"  class="btn btn-sm btn-primary btn-simple mr-1 float-right" >
+			<i class="fa fa-file-excel-o" aria-hidden="true"></i>	Export to EXCEL
+		</button>  
+		<button  type="button" (click)="download()"  class="btn btn-sm btn-primary btn-simple mr-1 float-right" >
+			<i class="fa fa-file-pdf-o"></i> Export to PDF
+		</button>
+		<select type="button"  class="btn btn-sm btn-primary btn-simple  mr-1 float-right"  onchange="updateProjectionPdf()"  id="sel2" >
+		<option value="1"> Scenario 1 </option>
+		</select>
+		<button  type="button" onclick="visuals()"  class="btn btn-sm btn-primary btn-simple mr-1 float-right" >
+						<i class="fa fa-file-pdf-o"></i> Visuals
+								</button>
+	</div>
+	<div class="mt-5 ml-3" style="padding-right:5px">
+		<table  id="myTable" border="1" >
+			<tr></tr>
+		</table>
+        <div class="cover-spin"></div>
+	</div>
+</div>
+<style>
+.cover-spin {
+	        position:fixed;
+			    width:100%;
+				        left:0;right:0;top:0;bottom:0;
+						    background-color: rgba(255,255,255,0.7);
+							        z-index:9999;
+									    display:none;
+    }
+
+    @-webkit-keyframes spin {
+	    	from {-webkit-transform:rotate(0deg);}
+			to {-webkit-transform:rotate(360deg);}
+    }
+
+    @keyframes spin {
+	    	from {transform:rotate(0deg);}
+			to {transform:rotate(360deg);}
+    }
+
+    .cover-spin::after {
+	        content:'';
+			    display:block;
+				        position:absolute;
+						    left:48%;top:40%;
+							        width:40px;height:40px;
+									    border-style:solid;
+										        border-color:black;
+												    border-top-color:transparent;
+													        border-width: 4px;
+															    border-radius:50%;
+																        -webkit-animation: spin .8s linear infinite;
+																		    animation: spin .8s linear infinite;
+    }
+
+</style>
